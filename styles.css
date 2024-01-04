@@ -1,3 +1,10 @@
 #name{
     color: black;
 }
+.p{
+    
+    padding: 10px
+}
+select li .dropdown{
+    display: none:;
+}
