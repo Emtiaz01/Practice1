@@ -1,15 +1,18 @@
-#name{
+#name {
     color: black;
 }
-.p{
-    
+
+.p {
+
     padding: 10px
 }
-select li .dropdown{
+
+select li .dropdown {
     display: none:;
 }
-.border{
-    background-color: color-mix(in srgb-linear,  percentage, color percentage);
+
+.border {
+    background-color: color-mix(in srgb-linear, percentage, color percentage);
     margin-top: 30px;
     margin-left: 400px;
     margin-right: 400px;
@@ -18,11 +21,13 @@ select li .dropdown{
     border-style: solid;
     border-color: aliceblue;
 
-    
+
 }
-hr{
+
+hr {
     margin-right: 2%;
 }
-.style{
+
+.style {
     color: aliceblue;
 }
