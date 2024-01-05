@@ -8,3 +8,21 @@
 select li .dropdown{
     display: none:;
 }
+.border{
+    background-color: color-mix(in srgb-linear,  percentage, color percentage);
+    margin-top: 30px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border: 1px;
+    padding-left: 10px;
+    border-style: solid;
+    border-color: aliceblue;
+
+    
+}
+hr{
+    margin-right: 2%;
+}
+.style{
+    color: aliceblue;
+}
